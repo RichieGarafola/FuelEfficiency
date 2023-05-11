@@ -1,5 +1,5 @@
 # Fuel Efficiency Analysis
-This project analyzes the fuel efficiency of various vehicle makes and models using data from the Geotab and EPA databases.
+This project analyzes the fuel efficiency of various vehicle makes and models using data from the Geotab dataset.
 
 ![](./Images/FuelEfficiency.jpg)
 
