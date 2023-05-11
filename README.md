@@ -98,10 +98,7 @@ Overall, the combination of data cleaning, exploratory data analysis, statistica
 
 ## Results
 The analysis found that there is a significant difference between actual and expected fuel economy for many vehicles, with some models performing better than expected and others performing worse. The results are presented in the FuelEfficiencyAnalysis.ipynb notebook, along with visualizations of the data.
-
 ![](./Images/ActualVExpectedFuelEconomyScatter.jpg)
-
-![](./Images/CompareVehichlesTotalCostAndPaybackPeriod.jpg)
 
 ![](./Images/CorrelationMatrix.jpg)
 
@@ -128,3 +125,5 @@ The analysis found that there is a significant difference between actual and exp
 ![](./Images/LinearRegression.jpg)
 
 ![](./Images/ProbabilityPlot.jpg)
+
+![](./Images/CompareVehichlesTotalCostAndPaybackPeriod.jpg)
