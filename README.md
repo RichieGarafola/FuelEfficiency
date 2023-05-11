@@ -1,7 +1,9 @@
 # Fuel Efficiency Analysis
 This project analyzes the fuel efficiency of various vehicle makes and models using data from the Geotab and EPA databases.
 
-The fuel efficiency of vehicles is an important factor in our daily lives, affecting both our wallets and the environment. To gain insight into the fuel efficiency of various vehicle makes and models, this project analyzes data from the Geotab and EPA databases. By combining actual fuel economy data from Geotab with expected fuel economy ratings from the EPA, we can explore the differences between actual and expected fuel economy for different vehicles.
+![](./Images/FuelEfficiency.jpg)
+
+The fuel efficiency of vehicles is an important factor in our daily lives, affecting both our wallets and the environment. To gain insight into the fuel efficiency of various vehicle makes and models, this project analyzes data from the Geotab dataset. By combining actual fuel economy data from Geotab with expected fuel economy ratings from the EPA, we can explore the differences between actual and expected fuel economy for different vehicles.
 
 Through this analysis, we aim to answer questions such as: Which vehicle makes and models perform better than expected in terms of fuel efficiency? Which models perform worse? How do these differences in fuel efficiency affect drivers and the environment?
 
@@ -97,3 +99,18 @@ Overall, the combination of data cleaning, exploratory data analysis, statistica
 ## Results
 The analysis found that there is a significant difference between actual and expected fuel economy for many vehicles, with some models performing better than expected and others performing worse. The results are presented in the FuelEfficiencyAnalysis.ipynb notebook, along with visualizations of the data.
 
+![](./Images/ActualVExpectedFuelEconomyScatter.jpg)
+![](./Images/CompareVehichlesTotalCostAndPaybackPeriod.jpg)
+![](./Images/CorrelationMatrix.jpg)
+![](./Images/EPARatingVFuelEconomy.jpg)
+![](./Images/EstimatedFuelCostEconomyType.jpg)
+![](./Images/FuelCostByEconomyType.jpg)
+![](./Images/FuelCostByMake.jpg)
+![](./Images/FuelCostByVehicleType.jpg)
+![](./Images/FuelEconomyByMake.jpg)
+![](./Images/FuelEconomyEPARatingScatter.jpg)
+![](./Images/FuelEconomyFrequency.jpg)
+![](./Images/FuelEconomyYear.jpg)
+![](./Images/HybridFuelEconomyBoxplot.jpg)
+![](./Images/LinearRegression.jpg)
+![](./Images/ProbabilityPlot.jpg)
