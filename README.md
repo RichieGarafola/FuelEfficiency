@@ -3,6 +3,7 @@ This project analyzes the fuel efficiency of various vehicle makes and models us
 
 ![](./Images/FuelEfficiency.jpg)
 
+
 The fuel efficiency of vehicles is an important factor in our daily lives, affecting both our wallets and the environment. To gain insight into the fuel efficiency of various vehicle makes and models, this project analyzes data from the Geotab dataset. By combining actual fuel economy data from Geotab with expected fuel economy ratings from the EPA, we can explore the differences between actual and expected fuel economy for different vehicles.
 
 Through this analysis, we aim to answer questions such as: Which vehicle makes and models perform better than expected in terms of fuel efficiency? Which models perform worse? How do these differences in fuel efficiency affect drivers and the environment?
